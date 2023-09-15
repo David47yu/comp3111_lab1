@@ -1,6 +1,6 @@
 # comp3111_lab1
 
-![image](https://github.com/David47yu/comp3111_lab1/assets/130168331/045f450b-e89b-46ae-9ceb-7be09ecb609c)
+![image](https://github.com/David47yu/comp3111_lab1/assets/130168331/ed10bd76-7643-4183-9929-7b85a7bddec1)
 
 
 
